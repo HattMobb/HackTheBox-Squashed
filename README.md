@@ -65,5 +65,7 @@ Screenshot can be converted locally to reveal the password of the root account:
 
 ![image](https://github.com/HattMobb/HackTheBox-Squashed/assets/134090089/f3cb7829-7145-4542-8bf9-6c0aa3fbb13f)
 
+![image](https://github.com/HattMobb/HackTheBox-Squashed/assets/134090089/86e2fa8d-329c-4032-8bbf-aeda3e21887e)
+
 
 
