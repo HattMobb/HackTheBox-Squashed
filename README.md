@@ -1,5 +1,5 @@
 # HackTheBox-Squashed
-A walkthrough/ write-up of the "Squashed" box following the CREST pentesting pathway
+A walkthrough/ write-up of the "Squashed" box following the CREST pentesting pathway (work in progress)
 
 ## Enumeration
 
